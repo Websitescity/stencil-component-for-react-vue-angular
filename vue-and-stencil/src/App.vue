@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <my-component first="Stencil menu"></my-component>
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
   </div>
